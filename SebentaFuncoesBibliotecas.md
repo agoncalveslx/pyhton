@@ -6,26 +6,45 @@ Sebenta de estudo sobre funções, modularização, bibliotecas e boas práticas
 
 # Índice
 
-1. Introdução às Funções  
-2. Criar e Chamar Funções  
-3. `print()` vs `return`  
-4. Parâmetros e Argumentos  
-5. Variáveis Locais e Globais  
-6. Validação e Tratamento de Erros  
-7. Objetos Mutáveis e Imutáveis  
-8. Boas Práticas  
-9. Docstrings e Type Hints  
-10. Funções Recursivas  
-11. Funções Lambda  
-12. Programação Funcional  
-13. Bibliotecas, Módulos e Pacotes  
-14. Biblioteca Padrão  
-15. Bibliotecas Externas  
-16. Criar Módulos Próprios  
-17. Modularização  
-18. Testes  
-19. Estudo de Caso  
-20. Exercícios  
+1. [Introdução às Funções](#1-introdução-às-funções)  
+
+2. [Criar e Chamar Funções](#2-criar-e-chamar-funções)  
+
+3. [`print()` vs `return`](#3-print-vs-return)  
+
+4. [Parâmetros e Argumentos](#4-parâmetros-e-argumentos)  
+
+5. [Variáveis Locais e Globais](#5-variáveis-locais-e-globais)  
+
+6. [Validação e Tratamento de Erros](#6-validação-e-tratamento-de-erros)  
+
+7. [Objetos Mutáveis e Imutáveis](#7-objetos-mutáveis-e-imutáveis)  
+
+8. [Boas Práticas](#8-boas-práticas)  
+
+9. [Docstrings e Type Hints](#9-docstrings-e-type-hints)  
+
+10. [Funções Recursivas](#10-funções-recursivas)  
+
+11. [Funções Lambda](#11-funções-lambda)  
+
+12. [Programação Funcional](#12-programação-funcional)  
+
+13. [Bibliotecas, Módulos e Pacotes](#13-bibliotecas-módulos-e-pacotes)  
+
+14. [Biblioteca Padrão](#14-biblioteca-padrão)  
+
+15. [Bibliotecas Externas](#15-bibliotecas-externas)  
+
+16. [Criar Módulos Próprios](#16-criar-módulos-próprios)  
+
+17. [Modularização](#17-modularização)  
+
+18. [Testes](#18-testes)  
+
+19. [Estudo de Caso](#19-estudo-de-caso)  
+
+20. [Exercícios](#20-exercícios)  
 
 ---
 
