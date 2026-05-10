@@ -4,7 +4,5 @@ Este material apresenta os conceitos fundamentais de funções em Python, inclui
 
 Além disso, são introduzidos conceitos de programação funcional com funções `lambda`, `map()` e `filter()`, comparando os paradigmas procedural e funcional em Python. O conteúdo termina com uma introdução às bibliotecas Python, formas de importar módulos e apresentação de bibliotecas úteis para iniciantes, como `math`, `random`, `datetime`, `pandas` e `matplotlib`. 
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agoncalveslx/pyhton/blob/main/02%20aula_funcoes_bibliotecas_lab.ipynb)
 
-
-https://mybinder.org/v2/gh/agoncalveslx/pyhton/main?filepath=02%20aula_funcoes_bibliotecas_lab.ipynb
+[![Abrir no Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/agoncalveslx/pyhton/main?filepath=funcoes_bibliotecas_python.ipynb)
