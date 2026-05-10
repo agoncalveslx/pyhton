@@ -6,3 +6,6 @@ Além disso, são introduzidos conceitos de programação funcional com funçõe
 
 
 [![Abrir no Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/agoncalveslx/pyhton/main?filepath=funcoes_bibliotecas_python.ipynb)
+
+
+[![Abrir no Deepnote](https://deepnote.com/buttons/launch-in-deepnote.svg)](https://deepnote.com/launch?url=https://github.com/agoncalveslx/pyhton/blob/main/funcoes_bibliotecas_python.ipynb)
