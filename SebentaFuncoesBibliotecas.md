@@ -52,15 +52,27 @@ Sebenta de estudo sobre funções, modularização, bibliotecas e boas práticas
 
 ## O que é uma função?
 
-Uma função é um bloco reutilizável de código que executa uma tarefa específica.
+Uma função é um bloco de código reutilizável concebido para executar uma tarefa específica dentro de um programa.
 
-## Vantagens
+Em Python, as funções permitem dividir programas complexos em partes mais pequenas, organizadas e fáceis de compreender. Cada função deve ter uma responsabilidade clara, contribuindo para tornar o código mais estruturado e modular.
 
-- organização;
-- reutilização;
-- menos repetição;
-- manutenção mais simples;
-- código mais limpo.
+As funções são um dos elementos fundamentais da programação, porque ajudam a reduzir a repetição de código e facilitam a manutenção dos programas.
+
+---
+
+## Vantagens da utilização de funções
+
+A utilização de funções apresenta várias vantagens importantes:
+
+- melhora a organização do código;
+- evita repetição desnecessária;
+- facilita a reutilização de lógica;
+- simplifica a manutenção do programa;
+- torna o código mais legível;
+- facilita a deteção e correção de erros;
+- permite criar programas mais modulares.
+
+---
 
 ## Exemplo simples
 
@@ -70,6 +82,18 @@ def mostrar_mensagem():
 
 mostrar_mensagem()
 ```
+
+### Explicação do exemplo
+
+Neste exemplo:
+
+- `def` é a palavra-chave utilizada para definir uma função;
+- `mostrar_mensagem` é o nome da função;
+- os parênteses `()` indicam que se trata de uma função;
+- o código indentado pertence ao corpo da função;
+- a função apenas é executada quando é chamada.
+
+Quando a função `mostrar_mensagem()` é executada, a mensagem `"Bem-vindo ao Python!"` é apresentada no ecrã.
 
 ---
 
