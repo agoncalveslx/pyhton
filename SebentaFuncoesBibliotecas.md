@@ -101,17 +101,147 @@ Quando a função `mostrar_mensagem()` é executada, a mensagem `"Bem-vindo ao P
 
 ## Criar uma função
 
+Criar uma função significa definir um conjunto de instruções que poderá ser reutilizado sempre que necessário ao longo do programa.
+
+Em Python, as funções são definidas através da palavra-chave `def`, seguida do nome da função e de parênteses `()`.
+
 ```python
 def saudacao():
     print("Olá!")
 ```
 
-## Chamar a função
+### Estrutura da função
+
+No exemplo anterior:
+
+- `def` indica que está a ser criada uma função;
+- `saudacao` é o nome atribuído à função;
+- os parênteses `()` permitem definir parâmetros, caso existam;
+- os dois pontos `:` indicam o início do bloco de instruções;
+- o código indentado pertence ao corpo da função.
+
+A indentação é obrigatória em Python e define quais as instruções que fazem parte da função.
+
+---
+
+## Chamar uma função
+
+Depois de criada, a função pode ser executada através do seu nome seguido de parênteses.
 
 ```python
 saudacao()
 ```
 
+Quando esta instrução é executada, Python entra na função `saudacao()` e executa o código definido no seu interior.
+
+Neste caso, o resultado será:
+
+```text
+Olá!
+```
+
+---
+
+## Exemplo completo
+
+```python
+def saudacao():
+    print("Olá!")
+
+print("Antes da função")
+
+saudacao()
+
+print("Depois da função")
+```
+
+### Resultado esperado
+
+```text
+Antes da função
+Olá!
+Depois da função
+```
+
+Este exemplo demonstra que a função apenas executa quando é chamada explicitamente no programa.
+
+---
+
+## Importância da ordem
+
+Em Python, uma função deve ser definida antes de ser utilizada.
+
+Exemplo incorreto:
+
+```python
+saudacao()
+
+def saudacao():
+    print("Olá!")
+```
+
+Neste caso, Python gera um erro porque a função ainda não existia no momento em que foi chamada.
+
+Forma correta:
+
+```python
+def saudacao():
+    print("Olá!")
+
+saudacao()
+```
+
+---
+
+## Erros frequentes
+
+### Falta de indentação
+
+```python
+def saudacao():
+print("Olá!")
+```
+
+Python gera um erro porque o corpo da função não está indentado corretamente.
+
+Forma correta:
+
+```python
+def saudacao():
+    print("Olá!")
+```
+
+---
+
+### Falta dos dois pontos
+
+```python
+def saudacao()
+    print("Olá!")
+```
+
+Forma correta:
+
+```python
+def saudacao():
+    print("Olá!")
+```
+
+---
+
+### Esquecer os parênteses na chamada
+
+```python
+saudacao
+```
+
+Neste caso, a função não é executada. Apenas é feita uma referência ao objeto função.
+
+Forma correta:
+
+```python
+saudacao()
+```
 ---
 
 # 3. `print()` vs `return`
