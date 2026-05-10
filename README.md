@@ -20,17 +20,19 @@ Dependendo da plataforma escolhida, os alunos podem:
 ### JupyterLite — Sem conta e abertura imediata
 
 Ideal para:
-- começar rapidamente;
-- executar notebooks simples;
-- experimentar código sem registo.
+- experimentar rapidamente;
+- executar exemplos simples;
+- utilizar notebooks sem instalação.
 
 Vantagens:
 - não necessita de conta;
 - abre diretamente no navegador;
 - muito simples para iniciantes;
-- não requer instalação.
+- executa Python no browser.
 
-[![Abrir no JupyterLite](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](LINK_JUPYTERLITE)
+[![Abrir no JupyterLite](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](
+https://agoncalveslx.github.io/pyhton/lab/index.html?path=LabFuncoesBibliotecas.python.ipynb
+)
 
 ---
 
@@ -38,20 +40,22 @@ Vantagens:
 
 Ideal para:
 - executar notebooks completos;
-- utilizar bibliotecas adicionais;
-- reproduzir exemplos do repositório.
+- utilizar bibliotecas Python;
+- reproduzir os exemplos do repositório.
 
 Vantagens:
 - não necessita de conta;
 - executa notebooks reais;
-- suporta ambientes Python completos;
-- funciona diretamente a partir do GitHub.
+- funciona diretamente a partir do GitHub;
+- muito útil para aulas e demonstrações.
 
 Nota:
 - o arranque pode demorar alguns segundos;
 - as alterações não ficam guardadas permanentemente.
 
-[![Abrir no Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/agoncalveslx/pyhton/main?filepath=funcoes_bibliotecas_python.ipynb)
+[![Abrir no Binder](https://mybinder.org/badge_logo.svg)](
+https://mybinder.org/v2/gh/agoncalveslx/pyhton/main?filepath=LabFuncoesBibliotecas.python.ipynb
+)
 
 ---
 
@@ -60,35 +64,17 @@ Nota:
 Ideal para:
 - continuar trabalho posteriormente;
 - guardar alterações;
-- executar notebooks mais avançados.
+- criar cópias pessoais do notebook.
 
 Vantagens:
 - interface muito simples;
-- permite criar uma cópia pessoal do notebook;
+- permite criar uma cópia pessoal;
 - guarda automaticamente no Google Drive;
 - muito utilizado em cursos e ciência de dados.
 
 Nota:
 - requer conta Google para guardar alterações.
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](LINK_COLAB)
-
----
-
-### GitHub Codespaces — Ambiente profissional completo
-
-Ideal para:
-- projetos maiores;
-- desenvolvimento profissional;
-- utilização semelhante ao VS Code.
-
-Vantagens:
-- ambiente completo de programação;
-- suporta notebooks, terminal e ficheiros;
-- permite trabalhar diretamente no repositório.
-
-Nota:
-- requer conta GitHub;
-- mais indicado para utilizadores avançados.
-
-[![Abrir no Codespaces](https://github.com/codespaces/badge.svg)](LINK_CODESPACES)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/agoncalveslx/pyhton/blob/main/LabFuncoesBibliotecas.python.ipynb
+)
