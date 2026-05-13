@@ -75,5 +75,7 @@ Nota:
 - requer conta Google para guardar alterações.
 
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/agoncalveslx/pyhton/blob/main/LabFuncoesBibliotecas.python.ipynb
+
+https://colab.research.google.com/github/agoncalveslx/pyhton/blob/main/FuncoesBibliotecas/LabFuncoesBibliotecas.python.ipynb
+
 )
