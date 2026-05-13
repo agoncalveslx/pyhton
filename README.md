@@ -54,9 +54,8 @@ Nota:
 - as alterações não ficam guardadas permanentemente.
 
 [![Abrir no Binder](https://mybinder.org/badge_logo.svg)](
-https://mybinder.org/v2/gh/agoncalveslx/pyhton/main?filepath=LabFuncoesBibliotecas.python.ipynb
+https://mybinder.org/v2/gh/agoncalveslx/pyhton/main?filepath=FuncoesBibliotecas/LabFuncoesBibliotecas.python.ipynb
 )
-
 ---
 
 ### Google Colab — Criar cópia e guardar no Google Drive
